@@ -11,12 +11,6 @@
 作成背景、工夫した点、苦労した点などをより詳細に解説した記事はこちらです！<br>
 [【ポートフォリオ解説】date-matchの全てがこれで分かる！](https://qiita.com/sdkk-rails/private/4f7c6701a17701f79c25)
 
-# URL
-https://www.date-match.net/
-
-ゲストログイン機能ですぐに閲覧ができます。<br>
-※現在、レスポンシブ対応中です。PC・GoogleChromeでの閲覧推奨です。
-
 [![Image from Gyazo](https://i.gyazo.com/cb3e8eee8a24637a2abe7d22bb08f18f.gif)](https://gyazo.com/cb3e8eee8a24637a2abe7d22bb08f18f)
 
 # 既存アプリとの相違点
